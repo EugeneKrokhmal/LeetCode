@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0383-ransom-note) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/EugeneKrokhmal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0383-ransom-note) |
 ## String Matching
 |  |
 | ------- |
@@ -53,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
