@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0027-remove-element) |
 | [2551-apply-operations-to-an-array](https://github.com/EugeneKrokhmal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/EugeneKrokhmal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/EugeneKrokhmal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/EugeneKrokhmal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
