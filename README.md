@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/EugeneKrokhmal/LeetCode/tree/master/0290-word-pattern) |
